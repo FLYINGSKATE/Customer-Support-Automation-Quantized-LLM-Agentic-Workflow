@@ -60,10 +60,13 @@ jupyter notebook support_automation_quantized.ipynb
 
 | Metric | Full precision | 4-bit quantized |
 |---|---|---|
-| Accuracy | [ ] | [ ] |
-| Avg. latency / ticket | [ ] | [ ] |
-| Cost per 1,000 tickets | [ ] | [ ] |
-| Estimated cost reduction | — | [ ]% |
+| Accuracy | Not yet measured — requires a labeled eval set (see Guardrails & limitations below) | Not yet measured — requires a labeled eval set (see Guardrails & limitations below) |
+| Avg. latency / ticket | 76,323.70 ms (~76.3s) | 8,465.89 ms (~8.5s) |
+| Cost per 1,000 tickets | $31.8015 | $1.1758 |
+| Estimated cost reduction | — | 96.30% |
+
+
+
 
 ## Guardrails & limitations
 
