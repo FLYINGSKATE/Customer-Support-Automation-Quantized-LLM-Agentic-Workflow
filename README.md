@@ -77,7 +77,10 @@ jupyter notebook support_automation_quantized.ipynb
 
 ## Demo
 
-[[Deployment link / video walkthrough]](https://colab.research.google.com/drive/1RIf9_bZAoqmB9rq6nNWciNmaSPZJSpOx?usp=sharing)
+[[Collab Notebook]](https://colab.research.google.com/drive/1RIf9_bZAoqmB9rq6nNWciNmaSPZJSpOx?usp=sharing)
+
+[[Hugging Face Demo]](https://huggingface.co/spaces/ashrafksalim/customer-support-quantized-llm-agent)
+
 
 ## License
 
